@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>258349957501-33385jfjuhkr2677glm8a1tjkteeou0c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.258349957501-33385jfjuhkr2677glm8a1tjkteeou0c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPTWI7-BLIIpwPn3Rrcw3_rUrv5atvgZg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>258349957501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.amiteshnagarkar.ProgressTracker</string>
+	<key>PROJECT_ID</key>
+	<string>progresstracker-9ed8d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>progresstracker-9ed8d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:258349957501:ios:00b1e4a0ae506157ae8c14</string>
+	<key>DATABASE_URL</key>
+	<string>https://progresstracker-9ed8d.firebaseio.com</string>
+</dict>
+</plist>
