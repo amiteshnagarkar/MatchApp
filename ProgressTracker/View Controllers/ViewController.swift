@@ -16,6 +16,9 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var loginButton: UIButton!
     
+    
+    @IBOutlet weak var guestButton: UIButton!
+    
      
     
 
@@ -30,7 +33,8 @@ class ViewController: UIViewController {
     func setUpElements() {
         
         Utilities.styleFilledButton(signUpButton)
-        Utilities.styleHollowButton(loginButton)
+        Utilities.styleFilledButton(loginButton)
+        Utilities.styleFilledButton(guestButton)
         
         
         
